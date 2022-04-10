@@ -46,3 +46,53 @@ ul{
     line-height: 18px;
     color: #FFFFFF;
 }
+
+
+
+
+
+
+/* Main start */
+.main__box-info {
+    font-size: 14px;
+    line-height: 18px;  
+}
+
+.main__box-span {
+    border-radius: 3px;
+    background: #4A90E2;
+    padding: 3px 5px;
+    font-size: 12px;
+    line-height: 16px;
+} 
+
+.main__box-img {
+    position: absolute;
+}
+.main__box{
+   
+}
+
+.main__box-item{
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Main end */
